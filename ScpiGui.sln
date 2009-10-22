@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScpiTest", "ScpiGui\ScpiTest.csproj", "{3726E2C2-F694-442E-8768-4C45DC3FD217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugConsole|Any CPU = DebugConsole|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseConsole|Any CPU = ReleaseConsole|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3726E2C2-F694-442E-8768-4C45DC3FD217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3726E2C2-F694-442E-8768-4C45DC3FD217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3726E2C2-F694-442E-8768-4C45DC3FD217}.DebugConsole|Any CPU.ActiveCfg = DebugConsole|Any CPU
+		{3726E2C2-F694-442E-8768-4C45DC3FD217}.DebugConsole|Any CPU.Build.0 = DebugConsole|Any CPU
+		{3726E2C2-F694-442E-8768-4C45DC3FD217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3726E2C2-F694-442E-8768-4C45DC3FD217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3726E2C2-F694-442E-8768-4C45DC3FD217}.ReleaseConsole|Any CPU.ActiveCfg = ReleaseConsole|Any CPU
+		{3726E2C2-F694-442E-8768-4C45DC3FD217}.ReleaseConsole|Any CPU.Build.0 = ReleaseConsole|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

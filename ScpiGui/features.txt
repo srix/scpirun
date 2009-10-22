@@ -1,0 +1,31 @@
+COMMON:
+tool to convert sfxscpi scpi to std scpi\
+
+
+
+GUI
+when a scp file is loaded show the drop down
+pause enter scpi commsnds
+use list view
+show cokmpleted portion of scpi when paused in light grey backgournd
+store history of scpi files in config file
+store history of instruments in config file
+wait command should have a progressbar in the same line
+Commands shown in default color
+resuklts shown in green
+errors shown in red
+breakpoints
+check box to select termintaion character
+
+
+Console:
+wait command should have a progressbar
+Commands shown in default color [DONE]
+resuklts shown in green [DONE]
+errors shown in red [DONE]
+parameter to select termination character
+
+
+TodO:
+throw exception instead of passing the outputui
+when the output of scpugui is directed to text file "Invalid handle error appears when drawtextprogressbar is first called And scpigui stops there.

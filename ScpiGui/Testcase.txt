@@ -1,0 +1,2 @@
+1) check with scpi file having empty lines
+2)
